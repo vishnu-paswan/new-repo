@@ -1,2 +1,3 @@
 # new-repo
 my first GitHub project ....
+Author - vishnu paswan 
